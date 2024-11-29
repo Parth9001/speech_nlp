@@ -7,3 +7,4 @@ ocr_augmented_flores
 flores_dataset
 ground_truths
 udhr_dataset
+*.ppm
